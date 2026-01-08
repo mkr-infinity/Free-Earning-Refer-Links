@@ -1,4 +1,5 @@
-# Microsoft Bing Rewards
+
+# 1. Microsoft Bing Rewards
 
 You Can Use Microsoft Bing for Browsing Internet Instead of that stock google or u can switch search engine in chrome or any browser to bing
 
